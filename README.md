@@ -9,7 +9,7 @@
 ```
 
 ### 키바나 접속
-[http://localhost:5601/][http://localhost:5601/]
+[http://localhost:5601/](http://localhost:5601/)
 
 ### elasticesearch 주소
-[http://localhost:8100/][http://localhost:8100/]
+[http://localhost:8100/](http://localhost:8100/)
